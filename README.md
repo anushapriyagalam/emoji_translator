@@ -1,4 +1,3 @@
 # emoji_translator
-Created with CodeSandbox
-
-Website developed with React using CodeSandbox, which takes the emojis as input by clicking on the dictionary list given or manually and displays the meaning of emoji selected.
+Emoji Dictionary Web App
+Developed a website using JavaScript in CodeSandbox, allowing users to input emojis. The app displays the meaning of the selected emoji when clicked from a provided dictionary list or entered manually.
